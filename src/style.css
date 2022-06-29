@@ -17,6 +17,10 @@ nav {
     padding: 30px 25px;
 }
 
+.nav--logo {
+    margin-right: 7px;
+}
+
 .nav--logo_text, .nav--title {
     margin: 0;
 }
@@ -41,6 +45,9 @@ nav {
 main {
     padding: 57px 27px;
     color: white;
+    background-image: url(./images/react-icon-large.png);
+    background-repeat: no-repeat;
+    background-position: right 75%;
 }
 
 .main--title {
